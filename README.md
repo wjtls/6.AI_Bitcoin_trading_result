@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/60399060/152996989-2f2cfda6-b2fd-4e2a-8a39-f34ab641af82.png)
 - 위 그래프: AI의 Portfolio value , 아래 그래프: 비트 코인  (데이터: 일봉 1010일)
 - 시장 수익률 : 77.4 %
-- AI 수익률 : 54239 %
+- AI 수익률 : 54239.5 %
  <br/><br/><br/>
 
 ## validation set 결과
