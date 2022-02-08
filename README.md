@@ -12,7 +12,7 @@
 
 ## validation set 결과
 ![image](https://user-images.githubusercontent.com/60399060/152996777-c3b90284-7522-41aa-8f2f-ee940a168450.png)
-- 위 그래프: AI의 Portfolio value , 아래 그래프: 비트 코인  (데이터: 일봉 1010일)
+- 위 그래프: AI의 Portfolio value , 아래 그래프: 비트 코인  (데이터: 일봉 275일)
 - 시장 수익률 : 184 %
 - AI 수익률 : 1407 %
 
@@ -20,6 +20,6 @@
  
 ## Test set 결과
 ![image](https://user-images.githubusercontent.com/60399060/152996869-7cbc3089-a4dd-470c-a7fa-a257b6e486f4.png)
-- 위 그래프: AI의 Portfolio value , 아래 그래프: 비트 코인  (데이터: 일봉 1010일)
+- 위 그래프: AI의 Portfolio value , 아래 그래프: 비트 코인  (데이터: 일봉 136일)
 - 시장 수익률 : 2.2 %
 - AI 수익률 : 101.1 %
