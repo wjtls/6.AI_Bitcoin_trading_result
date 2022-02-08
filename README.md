@@ -1,7 +1,11 @@
 # AI_Bitcoin_trading_result (2022.2.8 수정)
 
--인풋 지표: 만든지표, 시장 지표
--특이사항: 생성 된 인풋 지표를 딥러닝으로 재생성후 학습시킨다
+- 인풋 지표: 만든지표, 시장 지표<br/>
+- 특이사항:  
+   1. 생성 된 인풋 지표를 딥러닝으로 재생성후 학습시킨다<br/>
+   2. 슬리피지 방지하기 위해 open 데이터 사용.
+   3. 거래량 고려시 전날의 open 데이터 사용
+   4. 타임 프레임: 일봉
 
 ## Traning set 결과
 ![image](https://user-images.githubusercontent.com/60399060/152996989-2f2cfda6-b2fd-4e2a-8a39-f34ab641af82.png)
